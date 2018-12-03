@@ -1,3 +1,5 @@
+# first R script to run
+# modified locally
 library(dplyr)
 library(readr)
 library(fields)
