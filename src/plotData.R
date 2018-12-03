@@ -1,3 +1,3 @@
 pdf(file = "coolplot.pdf")
-  hist(mtcars$disp)
+hist(mtcars$disp)
 dev.off()
