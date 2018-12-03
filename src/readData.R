@@ -1,5 +1,7 @@
 # first R script to run
 # modified locally
+# First script to include in source to read sample data from Rob
+# modified on github online
 library(dplyr)
 library(readr)
 library(fields)
