@@ -1,0 +1,6 @@
+setwd("~/Documents/data/Class/Repro/src")
+source("readData.R")
+source("wrangleData.R")
+source("plotData.R")
+source("calcd2ship.R")
+source("runRegression.R")
