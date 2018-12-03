@@ -1,2 +1,3 @@
-edit plot data hahaha
-lol!!!:-)
+pdf(file = "coolplot.pdf")
+  hist(mtcars$disp)
+dev.off()
